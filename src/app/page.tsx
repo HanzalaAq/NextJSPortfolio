@@ -11,9 +11,9 @@ export default function Home() {
         height={150}
         className="rounded-full mb-8 shadow-lg"
       />
-      <h1 className="text-4xl font-bold mb-4 text-center">Hanzala Afaq</h1>
+      <h1 className="text-4xl font-bold mb-4 text-center">Welcome to My Portfolio</h1>
       <p className="text-xl mb-8 text-center max-w-2xl">
-        I'm a passionate developer with expertise in web technologies. 
+        I&apos;m a passionate developer with expertise in web technologies. 
         Explore my work and skills to learn more about what I can bring to your team.
       </p>
       <div className="flex space-x-4">
